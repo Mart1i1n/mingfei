@@ -171,6 +171,10 @@ body {
     text-align: center;
   }
   
+  .profile-image {
+    text-align: center;
+  }
+  
   .profile-photo {
     width: 220px;
     height: auto;
